@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-eduardopedrosamf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardopedrosamf@gmail.com)](mailto:eduardopedrosamf@gmail.com)
 ![GitHub followers](https://img.shields.io/github/followers/EduardoPedrosa?style=social)
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EduardoPedrosa.EduardoPedrosa&color=00cf00) 
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EduardoPedrosa&color=00cf00) 
 </div>
 
 - 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
