@@ -10,7 +10,6 @@
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EduardoPedrosa&color=00cf00) 
 </div>
 
-- 🔭 I’m currently working on [Gama Academy](https://www.gama.academy/)
 - 🌱 I’m currently learning and improving **React, React Native, Next.js, Node, Typescript, NestJS, TypeORM, MongoDB, Kubernetes and Docker**
 - 📫 How to reach me: eduardopedrosamf@gmail.com
 
