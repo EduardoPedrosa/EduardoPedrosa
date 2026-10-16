@@ -20,7 +20,7 @@ Computer Science graduate from **UFLA**, based in Brazil.
 
 - **[Escola de CAIO ↗](https://escoladecaio.com.br/)** — AI tools, automations and integrations for business.
 - **[Blockforce ↗](https://blockforce.ai)** — Web, mobile and backend development for blockchain and AI traceability.
-- **[WhoamI ↗](https://github.com/EduardoPedrosa/whoami)** — A multiplayer guessing game with real-time synchronization.
+- **[Bookworms ↗](https://clube-do-livro-bookworms.eplabs.com.br/)** — A reading-club platform with subscriptions, reading goals and community spaces.
 
 <details>
 <summary><strong>Stack & approach</strong></summary>
