@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Eduardo Pedrosa</title>
+  <desc id="desc">An editorial nameplate with connected orbits, inspired by ideas becoming products.</desc>
+  <rect width="960" height="260" rx="16" fill="#f6f8fa"/>
+  <path d="M40 32h34" stroke="#276749" stroke-width="3"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#172b25" font-size="76" font-weight="700" letter-spacing="-3">
+    <text x="38" y="124">Eduardo</text>
+    <text x="38" y="207">Pedrosa<tspan fill="#276749">.</tspan></text>
+  </g>
+  <g stroke="#d0dfd6" stroke-width="1.5">
+    <circle cx="754" cy="130" r="104"/>
+    <circle cx="754" cy="130" r="73"/>
+    <circle cx="754" cy="130" r="39"/>
+    <path d="M613 130h282M754 10v240" stroke-dasharray="3 8"/>
+    <path d="M680 57l148 146M680 203L828 57"/>
+  </g>
+  <path d="M680 57a104 104 0 0 1 174 101" stroke="#276749" stroke-width="2"/>
+  <circle cx="680" cy="57" r="7" fill="#276749"/>
+  <circle cx="854" cy="158" r="5" fill="#276749"/>
+  <circle cx="754" cy="130" r="10" fill="#276749"/>
+  <circle cx="702" cy="181" r="5" fill="#52665d"/>
+</svg>

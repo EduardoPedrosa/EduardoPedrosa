@@ -1,20 +1,43 @@
-<h1 align="center">Hi 👋, I'm Eduardo Pedrosa</h1>
-<h3 align="center">Fullstack Developer</h3>
+<a href="https://portfolio.eplabs.com.br/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+    <img src="./assets/header-light.svg" width="100%" alt="Eduardo Pedrosa — explore my portfolio">
+  </picture>
+</a>
 
-<div align="center">
- 
- [![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Pedrosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-pedrosa/)](https://www.linkedin.com/in/eduardo-pedrosa/)
-[![Gmail Badge](https://img.shields.io/badge/-eduardopedrosamf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardopedrosamf@gmail.com)](mailto:eduardopedrosamf@gmail.com)
-![GitHub followers](https://img.shields.io/github/followers/EduardoPedrosa?style=social)
+### Product engineer · AI, web & mobile
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=EduardoPedrosa&color=00cf00) 
-</div>
+I build digital products from idea to production: interfaces, APIs and AI integrations. My work spans business automation, supply-chain traceability, education and independent products.
 
-- 🌱 I’m currently learning and improving **React, React Native, Next.js, Node, Typescript, NestJS, TypeORM, MongoDB, Kubernetes and Docker**
-- 📫 How to reach me: eduardopedrosamf@gmail.com
+Computer Science graduate from **UFLA**, based in Brazil.
 
- <div align="center">
- <a href="https://github.com/EduardoPedrosa"></a>
-     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EduardoPedrosa&hide_border=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/> &nbsp;
-     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoPedrosa&layout=compact&count_private=true&hide_border=true&theme=nightowl&show_icons=true">
-</div>
+**[Explore my portfolio ↗](https://portfolio.eplabs.com.br/)** &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/eduardo-pedrosa/) &nbsp; / &nbsp; [Email me](mailto:eduardopedrosa.dev@gmail.com)
+
+---
+
+#### Selected work
+
+- **[Escola de CAIO ↗](https://escoladecaio.com.br/)** — AI tools, automations and integrations for business.
+- **[Blockforce ↗](https://blockforce.ai)** — Web, mobile and backend development for blockchain and AI traceability.
+- **[WhoamI ↗](https://github.com/EduardoPedrosa/whoami)** — A multiplayer guessing game with real-time synchronization.
+
+<details>
+<summary><strong>Stack & approach</strong></summary>
+
+- **Web & mobile:** TypeScript, React, Next.js, React Native.
+- **Backend & data:** Node.js, NestJS, Python, PostgreSQL.
+- **Applied AI:** LLM integrations, MCP and workflow automation.
+
+I start with the problem, shape the experience and connect the systems that bring the product to production.
+
+</details>
+
+<details>
+<summary><strong>Em português</strong></summary>
+
+Sou engenheiro de produto e bacharel em Ciência da Computação pela **UFLA**. Desenvolvo produtos de IA, web e mobile, da ideia à produção — com experiência em automação, rastreabilidade e educação.
+
+**[Conheça meu portfólio ↗](https://portfolio.eplabs.com.br/)** · [Fale comigo](mailto:eduardopedrosa.dev@gmail.com)
+
+</details>
